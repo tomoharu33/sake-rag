@@ -1,7 +1,10 @@
-# sake-rag
-JSA Sake Diploma二次試験の設問に対して、適切な回答を行うRAG
-LangChainを用いず、OpenAIのAPIを利用
-see also #sake-rag-chain
+# sake-rag 
+JSA Sake Diploma二次試験の設問に対して、適切な回答を行うRAG 
+LangChainを用いず、OpenAIのAPIを利用 
+see also #sake-rag-chain 
+
+# 参考
+https://zenn.dev/spiralai/articles/8af7cbf526c2e1
 
 # 環境構築手順メモ
 - pyenv local 3.11.1
